@@ -1,2 +1,4 @@
 # hello-world
-Just first stuff
+Hey everyone!
+
+I'm here to do my best in frontend! Hahahahaha
